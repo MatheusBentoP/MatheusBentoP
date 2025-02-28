@@ -25,7 +25,7 @@
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBentoP&show_icons=true&theme=algolia)
 
  <a href="https://github.com/MatheusBentoP">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBentoP&theme=onedark&layout=compact&langs_count=6" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBentoP&theme=algolia&layout=compact&langs_count=6" />
   </a>
 
 
