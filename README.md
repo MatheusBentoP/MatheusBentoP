@@ -6,27 +6,26 @@
 
 ## 🚧 Constantemente Aprendendo
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  
-          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+  </a>
+</p>
        
           
-          
-  
-          
-
-
 ##
-  
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBentoP&show_icons=true&theme=algolia)
 
- <a href="https://github.com/MatheusBentoP">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBentoP&theme=algolia&layout=compact&langs_count=6" />
-  </a>
+<br>
+
+<div align="center">
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBentoP&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBentoP&layout=compact&theme=algolia" /></a> |
+| ---------------- | ---------------- |
+
+</div>
+
+
 
 
 ##
